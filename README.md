@@ -1,13 +1,14 @@
-### WOMAN
+# WOMAN
 
 
-### FOCO: Nosso app tem o foco de ajudar mulheres em situação de vulnerabilidade, em relacionamentos abusivos e que tem medo de denunciar o companheiro.
+### FOCO: *Nosso app tem o foco de ajudar mulheres em situação de vulnerabilidade, em relacionamentos abusivos e que tem medo de denunciar o companheiro.*
 
-### OBJETIVO: *Ajudar essas mulheres a denunciar/pedir ajuda em situações de perigo. Um app que elas pudessem manter no celular, ja que situações de agressão são, muitas vezes inesperadas e sem motivos. 
+### OBJETIVO: *Ajudar essas mulheres a denunciar/pedir ajuda em situações de perigo. Um app que elas pudessem manter no celular, ja que situações de agressão são, muitas vezes inesperadas e sem motivos.* 
 
 >Explicando o código
 
- *É apresentado uma tela de inicio de boas vindas e de opções*
+ *É apresentado uma tela de inicio de boas vindas e de opções de menu*
+ 
  *Tambem é apresentando telas de login e cadastro*
 
 ### **O código usa os seguintes componentes do React Native:**
